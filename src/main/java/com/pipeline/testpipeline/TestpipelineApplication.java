@@ -8,6 +8,7 @@ public class TestpipelineApplication {
 
 	public static void main(String[] args) {
 		System.out.println("test me");
+		System.out.println("test me");
 		SpringApplication.run(TestpipelineApplication.class, args);
 	}
 
