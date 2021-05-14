@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestpipelineApplication {
 
 	public static void main(String[] args) {
+		System.out.println("hello me")
 		SpringApplication.run(TestpipelineApplication.class, args);
 	}
 
